@@ -1,6 +1,6 @@
 /**
- * Author : WIDISKEL
- * Git : https://github.com/widiskel
+ * Author : HOKIRECEH
+ * Git : https://github.com/hokireceh
  */
 import bip39 from "bip39";
 import twist from "./twist.js";
